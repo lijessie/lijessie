@@ -1,16 +1,20 @@
-## Hi there 👋
+![Jessie's workbench — A few things I'm making.](assets/banner.png)
 
-<!--
-**lijessie/lijessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Jessie. This is where the code behind my side projects and small experiments lives.
 
-Here are some ideas to get you started:
+[Visit my space ↗](https://lijessie.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### On my desk
+
+**[01 / Daily ↗](https://github.com/lijessie/diet)**  
+A little intention in the everyday.  
+A personal nutrition tracker for meals, macros, and recipes.
+
+### Taking shape
+
+**Something remixed**  
+A music playground. Still a what-if.
+
+---
+
+*Some things are finished. Most things are becoming.*
